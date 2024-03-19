@@ -1,0 +1,2 @@
+--first download npm install mongoose
+--to run server node index.js
